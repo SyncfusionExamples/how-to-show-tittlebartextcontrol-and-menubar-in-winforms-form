@@ -1,4 +1,4 @@
-# How to show TitleBarTextControl and Menubar in WinForms SfForm
+# How to show TitleBarTextControl and Menubar in WinForms SfForm?
 
 ## About the sample
 
@@ -18,7 +18,7 @@ The following screenshot illustrates the `TextBarTextControl` in `Form`,
 
 ![](https://www.syncfusion.com/uploads/user/kb/wf/wf-56119/wf-56119_img1.png)
 
-The following screenshot illustrates the `MenuBar` In `Form`,
+The following screenshot illustrates the `MenuBar` in `Form`,
 
 ![](https://www.syncfusion.com/uploads/user/kb/wf/wf-56119/wf-56119_img2.png)
 
